@@ -1,0 +1,354 @@
+[
+    {
+      "ride_id": "21709796",
+      "ride_distance": 7065,
+      "distance_from_gps": 7947,
+      "tomtom_distance": 7790.307740662001,
+      "diff_rd_tom": -725.3077406620014,
+      "diff_gps_tom": 156.69225933799862
+    },
+    {
+      "ride_id": "22199245",
+      "ride_distance": 10843,
+      "distance_from_gps": 6243,
+      "tomtom_distance": 6467.546697641643,
+      "diff_rd_tom": 4375.453302358357,
+      "diff_gps_tom": -224.54669764164282
+    },
+    {
+      "ride_id": "22243974",
+      "ride_distance": 24456,
+      "distance_from_gps": 25081,
+      "tomtom_distance": 21569.20355764186,
+      "diff_rd_tom": 2886.7964423581398,
+      "diff_gps_tom": 3511.7964423581398
+    },
+    {
+      "ride_id": "22342590",
+      "ride_distance": 3795,
+      "distance_from_gps": 151,
+      "tomtom_distance": 55.0154687561203,
+      "diff_rd_tom": 3739.9845312438797,
+      "diff_gps_tom": 95.9845312438797
+    },
+    {
+      "ride_id": "22422779",
+      "ride_distance": 9469,
+      "distance_from_gps": 8808,
+      "tomtom_distance": 8829.533540691229,
+      "diff_rd_tom": 639.4664593087709,
+      "diff_gps_tom": -21.533540691229064
+    },
+    {
+      "ride_id": "22472006",
+      "ride_distance": 3270,
+      "distance_from_gps": 1425,
+      "tomtom_distance": 1384.7591090022552,
+      "diff_rd_tom": 1885.2408909977448,
+      "diff_gps_tom": 40.24089099774483
+    },
+    {
+      "ride_id": "22477891",
+      "ride_distance": 13295,
+      "distance_from_gps": 9255,
+      "tomtom_distance": 10356.153706450203,
+      "diff_rd_tom": 2938.8462935497973,
+      "diff_gps_tom": -1101.1537064502027
+    },
+    {
+      "ride_id": "22498459",
+      "ride_distance": 5538,
+      "distance_from_gps": 2199,
+      "tomtom_distance": 3143.903301974465,
+      "diff_rd_tom": 2394.096698025535,
+      "diff_gps_tom": -944.9033019744652
+    },
+    {
+      "ride_id": "22499656",
+      "ride_distance": 14249,
+      "distance_from_gps": 9728,
+      "tomtom_distance": 8754.469238803535,
+      "diff_rd_tom": 5494.530761196465,
+      "diff_gps_tom": 973.5307611964654
+    },
+    {
+      "ride_id": "22513902",
+      "ride_distance": 4889,
+      "distance_from_gps": 1535,
+      "tomtom_distance": 1722.6744944356622,
+      "diff_rd_tom": 3166.3255055643376,
+      "diff_gps_tom": -187.67449443566215
+    },
+    {
+      "ride_id": "22514918",
+      "ride_distance": 12890,
+      "distance_from_gps": 7981,
+      "tomtom_distance": 8530.608609593452,
+      "diff_rd_tom": 4359.391390406548,
+      "diff_gps_tom": -549.6086095934515
+    },
+    {
+      "ride_id": "22515246",
+      "ride_distance": 5714,
+      "distance_from_gps": 2594,
+      "tomtom_distance": 2664.787880324364,
+      "diff_rd_tom": 3049.212119675636,
+      "diff_gps_tom": -70.78788032436387
+    },
+    {
+      "ride_id": "22516744",
+      "ride_distance": 7595,
+      "distance_from_gps": 5186,
+      "tomtom_distance": 5307.844835107781,
+      "diff_rd_tom": 2287.1551648922186,
+      "diff_gps_tom": -121.84483510778136
+    },
+    {
+      "ride_id": "22517267",
+      "ride_distance": 19154,
+      "distance_from_gps": 12732,
+      "tomtom_distance": 13504.414104175194,
+      "diff_rd_tom": 5649.585895824806,
+      "diff_gps_tom": -772.4141041751936
+    },
+    {
+      "ride_id": "22519940",
+      "ride_distance": 4654,
+      "distance_from_gps": 3171,
+      "tomtom_distance": 3550.3217200160575,
+      "diff_rd_tom": 1103.6782799839425,
+      "diff_gps_tom": -379.3217200160575
+    },
+    {
+      "ride_id": "22520453",
+      "ride_distance": 11076,
+      "distance_from_gps": 9060,
+      "tomtom_distance": 9314.044943349925,
+      "diff_rd_tom": 1761.9550566500748,
+      "diff_gps_tom": -254.04494334992523
+    },
+    {
+      "ride_id": "22520769",
+      "ride_distance": 10212,
+      "distance_from_gps": 7803,
+      "tomtom_distance": 8681.900584503874,
+      "diff_rd_tom": 1530.0994154961263,
+      "diff_gps_tom": -878.9005845038737
+    },
+    {
+      "ride_id": "22520910",
+      "ride_distance": 14885,
+      "distance_from_gps": 15683,
+      "tomtom_distance": 15495.581281215918,
+      "diff_rd_tom": -610.5812812159184,
+      "diff_gps_tom": 187.41871878408165
+    },
+    {
+      "ride_id": "22520944",
+      "ride_distance": 6076,
+      "distance_from_gps": 3784,
+      "tomtom_distance": 4013.679920043547,
+      "diff_rd_tom": 2062.320079956453,
+      "diff_gps_tom": -229.6799200435471
+    },
+    {
+      "ride_id": "22521492",
+      "ride_distance": 7064,
+      "distance_from_gps": 3350,
+      "tomtom_distance": 3765.7060412195533,
+      "diff_rd_tom": 3298.2939587804467,
+      "diff_gps_tom": -415.7060412195533
+    },
+    {
+      "ride_id": "22521978",
+      "ride_distance": 8813,
+      "distance_from_gps": 4013,
+      "tomtom_distance": 4710.96366214397,
+      "diff_rd_tom": 4102.03633785603,
+      "diff_gps_tom": -697.9636621439704
+    },
+    {
+      "ride_id": "22522949",
+      "ride_distance": 3938,
+      "distance_from_gps": 1823,
+      "tomtom_distance": 2059.3999818266957,
+      "diff_rd_tom": 1878.6000181733043,
+      "diff_gps_tom": -236.3999818266957
+    },
+    {
+      "ride_id": "22523580",
+      "ride_distance": 9688,
+      "distance_from_gps": 6488,
+      "tomtom_distance": 6744.018205456534,
+      "diff_rd_tom": 2943.981794543466,
+      "diff_gps_tom": -256.0182054565339
+    },
+    {
+      "ride_id": "22523699",
+      "ride_distance": 6983,
+      "distance_from_gps": 6834,
+      "tomtom_distance": 7249.5886572080635,
+      "diff_rd_tom": -266.5886572080635,
+      "diff_gps_tom": -415.5886572080635
+    },
+    {
+      "ride_id": "22525410",
+      "ride_distance": 8450,
+      "distance_from_gps": 4581,
+      "tomtom_distance": 4980.590789587075,
+      "diff_rd_tom": 3469.409210412925,
+      "diff_gps_tom": -399.59078958707505
+    },
+    {
+      "ride_id": "22525417",
+      "ride_distance": 16246,
+      "distance_from_gps": 14668,
+      "tomtom_distance": 15009.608837074626,
+      "diff_rd_tom": 1236.3911629253744,
+      "diff_gps_tom": -341.6088370746256
+    },
+    {
+      "ride_id": "22526284",
+      "ride_distance": 10229,
+      "distance_from_gps": 0,
+      "tomtom_distance": 0.01119147923838744,
+      "diff_rd_tom": 10228.988808520762,
+      "diff_gps_tom": -0.01119147923838744
+    },
+    {
+      "ride_id": "22527403",
+      "ride_distance": 16761,
+      "distance_from_gps": 10563,
+      "tomtom_distance": 11358.02843633607,
+      "diff_rd_tom": 5402.97156366393,
+      "diff_gps_tom": -795.0284363360697
+    },
+    {
+      "ride_id": "22527527",
+      "ride_distance": 7697,
+      "distance_from_gps": 5497,
+      "tomtom_distance": 6271.867057693825,
+      "diff_rd_tom": 1425.1329423061752,
+      "diff_gps_tom": -774.8670576938248
+    },
+    {
+      "ride_id": "22527799",
+      "ride_distance": 22216,
+      "distance_from_gps": 8664,
+      "tomtom_distance": 9639.037490714729,
+      "diff_rd_tom": 12576.962509285271,
+      "diff_gps_tom": -975.0374907147288
+    },
+    {
+      "ride_id": "22531131",
+      "ride_distance": 4482,
+      "distance_from_gps": 2675,
+      "tomtom_distance": 2840.0169406768073,
+      "diff_rd_tom": 1641.9830593231927,
+      "diff_gps_tom": -165.01694067680728
+    },
+    {
+      "ride_id": "22533031",
+      "ride_distance": 12408,
+      "distance_from_gps": 8587,
+      "tomtom_distance": 8229.015267892382,
+      "diff_rd_tom": 4178.984732107618,
+      "diff_gps_tom": 357.9847321076177
+    },
+    {
+      "ride_id": "22534763",
+      "ride_distance": 7452,
+      "distance_from_gps": 32396,
+      "tomtom_distance": 8379.706226111495,
+      "diff_rd_tom": -927.7062261114952,
+      "diff_gps_tom": 24016.293773888505
+    },
+    {
+      "ride_id": "22535383",
+      "ride_distance": 11967,
+      "distance_from_gps": 11239,
+      "tomtom_distance": 11444.574964291023,
+      "diff_rd_tom": 522.4250357089768,
+      "diff_gps_tom": -205.5749642910232
+    },
+    {
+      "ride_id": "22538538",
+      "ride_distance": 3227,
+      "distance_from_gps": 2179,
+      "tomtom_distance": 2418.693143319603,
+      "diff_rd_tom": 808.3068566803968,
+      "diff_gps_tom": -239.69314331960322
+    },
+    {
+      "ride_id": "22541136",
+      "ride_distance": 6913,
+      "distance_from_gps": 6307,
+      "tomtom_distance": 6290.00741293239,
+      "diff_rd_tom": 622.9925870676097,
+      "diff_gps_tom": 16.992587067609747
+    },
+    {
+      "ride_id": "22541715",
+      "ride_distance": 9777,
+      "distance_from_gps": 7727,
+      "tomtom_distance": 8589.787302144001,
+      "diff_rd_tom": 1187.212697855999,
+      "diff_gps_tom": -862.7873021440009
+    },
+    {
+      "ride_id": "22542097",
+      "ride_distance": 8356,
+      "distance_from_gps": 4042,
+      "tomtom_distance": 4189.035235935856,
+      "diff_rd_tom": 4166.964764064144,
+      "diff_gps_tom": -147.03523593585578
+    },
+    {
+      "ride_id": "22543632",
+      "ride_distance": 8915,
+      "distance_from_gps": 4392,
+      "tomtom_distance": 4548.615335267181,
+      "diff_rd_tom": 4366.384664732819,
+      "diff_gps_tom": -156.61533526718085
+    },
+    {
+      "ride_id": "22544039",
+      "ride_distance": 7040,
+      "distance_from_gps": 3295,
+      "tomtom_distance": 3570.2650961957897,
+      "diff_rd_tom": 3469.7349038042103,
+      "diff_gps_tom": -275.26509619578974
+    },
+    {
+      "ride_id": "22544083",
+      "ride_distance": 6207,
+      "distance_from_gps": 1751,
+      "tomtom_distance": 1981.0089857031971,
+      "diff_rd_tom": 4225.991014296803,
+      "diff_gps_tom": -230.00898570319714
+    },
+    {
+      "ride_id": "22545981",
+      "ride_distance": 10280,
+      "distance_from_gps": 7383,
+      "tomtom_distance": 6971.04698694945,
+      "diff_rd_tom": 3308.95301305055,
+      "diff_gps_tom": 411.95301305055
+    },
+    {
+      "ride_id": "22550787",
+      "ride_distance": 12489,
+      "distance_from_gps": 7451,
+      "tomtom_distance": 7986.431073265023,
+      "diff_rd_tom": 4502.568926734977,
+      "diff_gps_tom": -535.4310732650229
+    },
+    {
+      "ride_id": "22555637",
+      "ride_distance": 8732,
+      "distance_from_gps": 4893,
+      "tomtom_distance": 5326.985841037444,
+      "diff_rd_tom": 3405.0141589625564,
+      "diff_gps_tom": -433.9858410374436
+    }
+  ]
