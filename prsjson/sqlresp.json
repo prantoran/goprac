@@ -1,0 +1,266 @@
+[
+    {
+      "id": 21709796,
+      "hashed_id": "507N36",
+      "ride_distance": 7065,
+      "distance_from_gps": 7947
+    },
+    {
+      "id": 22199245,
+      "hashed_id": "50PQS5",
+      "ride_distance": 10843,
+      "distance_from_gps": 6243
+    },
+    {
+      "id": 22243974,
+      "hashed_id": "50RGJ4",
+      "ride_distance": 24456,
+      "distance_from_gps": 25081
+    },
+    {
+      "id": 22342590,
+      "hashed_id": "51166A",
+      "ride_distance": 3795,
+      "distance_from_gps": 151
+    },
+    {
+      "id": 22422779,
+      "hashed_id": "514599",
+      "ride_distance": 9469,
+      "distance_from_gps": 8808
+    },
+    {
+      "id": 22472006,
+      "hashed_id": "516006",
+      "ride_distance": 3270,
+      "distance_from_gps": 1425
+    },
+    {
+      "id": 22477891,
+      "hashed_id": "5166GB",
+      "ride_distance": 13295,
+      "distance_from_gps": 9255
+    },
+    {
+      "id": 22498459,
+      "hashed_id": "516TBT",
+      "ride_distance": 5538,
+      "distance_from_gps": 2199
+    },
+    {
+      "id": 22499656,
+      "hashed_id": "5170LQ",
+      "ride_distance": 14249,
+      "distance_from_gps": 9728
+    },
+    {
+      "id": 22513902,
+      "hashed_id": "517GGM",
+      "ride_distance": 4889,
+      "distance_from_gps": 1535
+    },
+    {
+      "id": 22514918,
+      "hashed_id": "517HKI",
+      "ride_distance": 12890,
+      "distance_from_gps": 7981
+    },
+    {
+      "id": 22515246,
+      "hashed_id": "517I1G",
+      "ride_distance": 5714,
+      "distance_from_gps": 2594
+    },
+    {
+      "id": 22516744,
+      "hashed_id": "517JLE",
+      "ride_distance": 7595,
+      "distance_from_gps": 5186
+    },
+    {
+      "id": 22517267,
+      "hashed_id": "517K8R",
+      "ride_distance": 19154,
+      "distance_from_gps": 12732
+    },
+    {
+      "id": 22519940,
+      "hashed_id": "517N80",
+      "ride_distance": 4654,
+      "distance_from_gps": 3171
+    },
+    {
+      "id": 22520453,
+      "hashed_id": "517NP3",
+      "ride_distance": 11076,
+      "distance_from_gps": 9060
+    },
+    {
+      "id": 22520769,
+      "hashed_id": "517O5J",
+      "ride_distance": 10212,
+      "distance_from_gps": 7803
+    },
+    {
+      "id": 22520910,
+      "hashed_id": "517OAA",
+      "ride_distance": 14885,
+      "distance_from_gps": 15683
+    },
+    {
+      "id": 22520944,
+      "hashed_id": "517OBE",
+      "ride_distance": 6076,
+      "distance_from_gps": 3784
+    },
+    {
+      "id": 22521492,
+      "hashed_id": "517OTM",
+      "ride_distance": 7064,
+      "distance_from_gps": 3350
+    },
+    {
+      "id": 22521978,
+      "hashed_id": "517PFS",
+      "ride_distance": 8813,
+      "distance_from_gps": 4013
+    },
+    {
+      "id": 22522949,
+      "hashed_id": "517QI9",
+      "ride_distance": 3938,
+      "distance_from_gps": 1823
+    },
+    {
+      "id": 22523580,
+      "hashed_id": "517R9A",
+      "ride_distance": 9688,
+      "distance_from_gps": 6488
+    },
+    {
+      "id": 22523699,
+      "hashed_id": "517RD9",
+      "ride_distance": 6983,
+      "distance_from_gps": 6834
+    },
+    {
+      "id": 22525410,
+      "hashed_id": "517TAA",
+      "ride_distance": 8450,
+      "distance_from_gps": 4581
+    },
+    {
+      "id": 22525417,
+      "hashed_id": "517TAH",
+      "ride_distance": 16246,
+      "distance_from_gps": 14668
+    },
+    {
+      "id": 22526284,
+      "hashed_id": "51809E",
+      "ride_distance": 10229,
+      "distance_from_gps": null
+    },
+    {
+      "id": 22527403,
+      "hashed_id": "5181GN",
+      "ride_distance": 16761,
+      "distance_from_gps": 10563
+    },
+    {
+      "id": 22527527,
+      "hashed_id": "5181KR",
+      "ride_distance": 7697,
+      "distance_from_gps": 5497
+    },
+    {
+      "id": 22527799,
+      "hashed_id": "5181TT",
+      "ride_distance": 22216,
+      "distance_from_gps": 8664
+    },
+    {
+      "id": 22531131,
+      "hashed_id": "5185L1",
+      "ride_distance": 4482,
+      "distance_from_gps": 2675
+    },
+    {
+      "id": 22533031,
+      "hashed_id": "5187OB",
+      "ride_distance": 12408,
+      "distance_from_gps": 8587
+    },
+    {
+      "id": 22534763,
+      "hashed_id": "5189M3",
+      "ride_distance": 7452,
+      "distance_from_gps": 32396
+    },
+    {
+      "id": 22535383,
+      "hashed_id": "518ACN",
+      "ride_distance": 11967,
+      "distance_from_gps": 11239
+    },
+    {
+      "id": 22538538,
+      "hashed_id": "518DRS",
+      "ride_distance": 3227,
+      "distance_from_gps": 2179
+    },
+    {
+      "id": 22541136,
+      "hashed_id": "518GOG",
+      "ride_distance": 6913,
+      "distance_from_gps": 6307
+    },
+    {
+      "id": 22541715,
+      "hashed_id": "518HDP",
+      "ride_distance": 9777,
+      "distance_from_gps": 7727
+    },
+    {
+      "id": 22542097,
+      "hashed_id": "518HQH",
+      "ride_distance": 8356,
+      "distance_from_gps": 4042
+    },
+    {
+      "id": 22543632,
+      "hashed_id": "518JHM",
+      "ride_distance": 8915,
+      "distance_from_gps": 4392
+    },
+    {
+      "id": 22544039,
+      "hashed_id": "518K19",
+      "ride_distance": 7040,
+      "distance_from_gps": 3295
+    },
+    {
+      "id": 22544083,
+      "hashed_id": "518K2N",
+      "ride_distance": 6207,
+      "distance_from_gps": 1751
+    },
+    {
+      "id": 22545981,
+      "hashed_id": "518M61",
+      "ride_distance": 10280,
+      "distance_from_gps": 7383
+    },
+    {
+      "id": 22550787,
+      "hashed_id": "518RG7",
+      "ride_distance": 12489,
+      "distance_from_gps": 7451
+    },
+    {
+      "id": 22555637,
+      "hashed_id": "5192RR",
+      "ride_distance": 8732,
+      "distance_from_gps": 4893
+    }
+  ]
