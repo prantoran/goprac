@@ -1,0 +1,1 @@
+https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect
